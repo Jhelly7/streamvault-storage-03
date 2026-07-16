@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=2365642,RESOLUTION=1722x720
+https://raw.githubusercontent.com/Jhelly7/streamvault-storage-03/storage-main/f56beabb-0cb5-4d2d-b57b-e2ad68962762/hls/index.m3u8
